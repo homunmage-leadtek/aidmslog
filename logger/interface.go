@@ -1,4 +1,4 @@
-// pkg/logger/logger.go
+// pkg/logger/interface.go
 
 package logger
 

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/homunmage-leadtek/aidmslog/pkg/logger"
+	"github.com/homunmage-leadtek/aidmslog/logger"
 )
 
 func main() {
